@@ -37,4 +37,5 @@ class IgnoreCommand(BlabberCommand):
 
             self.logger.error("Unexpected error:", sys.exc_info()[0])
 
+
             
