@@ -87,4 +87,5 @@ jobs:
           DEBUG: true
           fixType: batch
           files: all
+          emailForCommits: "abyrraju@veracode.com"
 
